@@ -1,0 +1,82 @@
+[
+    {
+        "id": "Q13",
+        "anscol": "A8",
+        "answer": "1"
+    },
+    {
+        "id": "Q14",
+        "anscol": "A9",
+        "answer": "3"
+    },
+    {
+        "id": "Q15",
+        "anscol": "A10",
+        "answer": "3"
+    },
+    {
+        "id": "Q16",
+        "anscol": "A11",
+        "answer": "2"
+    },
+    {
+        "id": "Q17",
+        "anscol": "A12",
+        "answer": "1"
+    },
+    {
+        "id": "Q18",
+        "anscol": "A13",
+        "answer": "3"
+    },
+    {
+        "id": "Q19",
+        "anscol": "A14",
+        "answer": "1"
+    },
+    {
+        "id": "Q20",
+        "anscol": "A15",
+        "answer": "4"
+    },
+    {
+        "id": "Q21",
+        "anscol": "A16",
+        "answer": "2"
+    },
+    {
+        "id": "Q22",
+        "anscol": "A17",
+        "answer": "4"
+    },
+    {
+        "id": "Q24",
+        "anscol": "A18|A19",
+        "answer": "5|6"
+    },
+    {
+        "id": "Q25",
+        "anscol": "A20|A21",
+        "answer": "5|1"
+    },
+    {
+        "id": "Q26",
+        "anscol": "A22|A23",
+        "answer": "4|5"
+    },
+    {
+        "id": "Q28",
+        "anscol": "A24",
+        "answer": "7"
+    },
+    {
+        "id": "Q29",
+        "anscol": "A25",
+        "answer": "6"
+    },
+    {
+        "id": "Q30",
+        "anscol": "A26",
+        "answer": "1"
+    }
+]

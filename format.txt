@@ -1,0 +1,8 @@
+id: center
+article: # 本文
+question: When Yuji realized that he had turned into a cat, he first felt _ . # 質問文。穴埋め問題の場合は"_"に選択肢が入る。要約問題の場合は文末に選択肢が入る。
+option_0: astonished
+option_1: embarrassed
+option_2: excited
+option_3: satisfied
+label: 0 # 正解ラベル
